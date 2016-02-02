@@ -1,29 +1,18 @@
-name: Public Films
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.48215
-title: Welcome to the World Unseen
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#000000'
-    - '#fefefe'
-    - '#2a2b24'
-    - '#93948f'
+    - '#FEFEFE'
+    - '#2A2B24'
+    - '#93948F'
     - '#540206'
   brandStrength: 0.8125
   lightness: 0.5625
-  saturation: 0.6943372059613466
   rhythmicContrast: 0.75
+  saturation: 0.6943372059613466
+cta: {}
+layout_spectrum: 1
+name: Public Films
+opengraph: {}
 purpose: []
+typography_spectrum: 0.48215
